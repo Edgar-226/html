@@ -1,0 +1,41 @@
+.titulo {
+  color: black;
+}
+h1 {
+  color: white;
+}
+
+h1:hover {
+  color: aqua;
+}
+
+.centrado {
+  text-align: center;
+}
+
+body {
+  background-color: cadetblue;
+}
+
+.rojo {
+  color: burlywood;
+  background-color: crimson;
+}
+.verde {
+  color: burlywood;
+  background-color: green;
+}
+
+.azul {
+  color: blue;
+  background-color: brown;
+}
+
+.width {
+  width: 200px;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-around;
+}
